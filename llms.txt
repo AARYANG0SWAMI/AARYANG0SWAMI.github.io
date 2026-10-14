@@ -1,0 +1,23 @@
+# Aaryan Goswami — Portfolio Summary
+
+## Profile
+Aaryan Goswami is a B.Tech Computer Science and Engineering graduate from Meerut, India, specializing in Java Full-Stack Development and Backend Engineering. He focuses on building clean REST APIs, microservices, and robust database architectures.
+
+## Technical Toolkit
+- Languages: Java (JDK 21), Object-Oriented Programming (OOP)
+- Frameworks & Backends: Spring Boot, Java Servlets, REST APIs, Apache Tomcat
+- Databases & Persistence: MySQL, JDBC, JPA (Java Persistence API)
+- Workflow & Logic: Git, GitHub, Linux, Data Structures and Algorithms (DSA)
+
+## Selected Technical Projects
+1. Switchly (Feature Flag API)
+   - Built with Java and Spring Boot.
+   - Manages feature toggles with strict HTTP method behaviors, clean deletion protocols, and customized API exception codes.
+2. Codeforces README Generator
+   - Built with Java Servlets, Apache Tomcat, and MySQL.
+   - Automates profile tracking by fetching individual Codeforces performance metadata and generating dynamic markdown documentation files.
+
+## Primary Contact Info
+- Email: aaryan.goswami.cse.2024@miet.ac.in
+- GitHub: https://github.com
+- LinkedIn: https://linkedin.com
